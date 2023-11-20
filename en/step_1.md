@@ -1,59 +1,21 @@
 ## Introduction
+You're about to embark on an epic journey where we cross the realms of literature, machine learning, and coding.
 
-Add project description here. What will learners be making? Broadly what skills will they be learning?
+Ever notice how the heroes and villains in your favourite stories have distinctive ways of expressing themselves? What if we could teach a machine learning model to identify those patterns, to tell if a quote is more likely to come from a goodie or a baddie? Well, gear up because that's exactly the adventure we're setting out on! Don't worry, we're not just throwing you into this epic battle of good and evil alone - we'll guide you through every twist and turn as you develop your **text classification application**. 
 
-### What you will make
+So, are you ready to get your superhero (or villain) game on? Let's unmask this project and unravel the power of AI together!
 
---- no-print ---
-Add instructions for interacting with the embedded content here.
+![Screencapture of finished hero and villain scratch project.](images/banner.png)
 
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
+<p style='border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;'>
+<strong>Text projects need to be retrained after 24 hours:</strong> If you are working on a text-based model, you will need to click the button to train your model if you have left it overnight or for more than 24 hours. Your training data will be kept online, but the model will time out after 24 hours. The model will need to be retrained at the start of each session; this should take only a couple of minutes.  
+</p>
 
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
 
---- collapse ---
----
-title: What you will need
----
-### Hardware
+### You will
 
-+ A computer or tablet capable of running Scratch 3
-
-### Software
-
-+ Scratch 3 (either [online](https://scratch.mit.edu/){:target="_blank"} or [offline](https://scratch.mit.edu/download){:target="_blank"})
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ Download the project [starter file](https://rpf.io/p/en/projectName-go){:target="_blank"} if working offline
-
---- /collapse ---
-
---- collapse ---
----
-title: What you will learn
----
-
-+ Learning objective 1
-+ Learning objective 2
-+ Learning objective 3
-
---- /collapse ---
-
---- collapse ---
----
-title: Additional information for educators
----
-
-You can download the completed project [here](https://rpf.io/p/en/projectName-get){:target="_blank"}.
-
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/projectName/print){:target="_blank"}.
-
---- /collapse ---
+Using the Machine Learning for Kids platform, Scratch, and a whole lot of literary quotes, you will:
+  + Build a machine learning model on Machine Learning for Kids
+  + Collect text data from famous literary heroes and villains
+  + Train your machine learning model on your collected quotes
+  + Build a text classifier that can predict whether someone is a hero or a villain from what they say
