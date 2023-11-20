@@ -25,7 +25,7 @@ Choose **Try it now** if you don't have an account, and don't want to sign up fo
 title: If you logged in with an account
 ---
 
-Select **Go to your projects**.
+Select **Go to your projects** to find your saved ML models.
 ![Image of the blue 'go to your projects' button on Machine Learning for Kids.](images/go2projects.png)
 
 --- /collapse ---
